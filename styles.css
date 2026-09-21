@@ -1,3 +1,10 @@
-p { font-family: Arial; color: rgb(208, 219, 202) }
-div { font-family:monospace,'source code pro', Verdana, Geneva, Tahoma, sans-serif ;
-     font-weight:normal; color:rgb(208, 219, 202) }
+p {
+  font-family: Arial;
+  color: rgb(208, 219, 202);
+}
+div {
+  font-family:
+    monospace, "source code pro", Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  color: rgb(208, 219, 202);
+}
